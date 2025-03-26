@@ -62,6 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itsdevmannan /itsdevmannan /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/itsdevmannan/itsdevmannan/output/snake.svg" alt="Snake animation" />
 
 ###
