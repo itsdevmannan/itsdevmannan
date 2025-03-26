@@ -12,11 +12,11 @@
 
 ###
 
-<h2 align="left">My Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -44,11 +44,11 @@
 
 ###
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/abdul-mannan-11961431b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -62,6 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itsdevmannan/itsdevmannan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/itsdevmannan /itsdevmannan /output/snake.svg" alt="Snake animation" />
 
 ###
